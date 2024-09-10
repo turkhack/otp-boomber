@@ -13,5 +13,8 @@ cd otp-boomber
 
 chmod x+ Linux.sh
 
-./Linux.sh```
+./Linux.sh
+
+
 ## that was for linux 
+bash```
