@@ -16,5 +16,5 @@ chmod x+ Linux.sh
 ./Linux.sh
 
 
-## that was for linux 
+### that was for linux 
 bash```
