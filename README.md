@@ -1,6 +1,6 @@
 ## installation for linux :-
 
-``sudo apt update
+```sudo apt update
 
 sudo apt upgrade -y
 
@@ -12,4 +12,5 @@ cd otp-boomber
 
 chmod x+ Linux.sh
 
-./Linux.sh``
+./Linux.sh```
+that was for linux 
