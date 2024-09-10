@@ -7,7 +7,7 @@
    sudo apt install -y git
    git clone https://github.com/MrTusarRX/otp-boomber.git
    cd otp-boomber 
-   chmod x+ Linux.sh
+   chmod +x Linux.sh
    ./Linux.sh
 
 
@@ -21,7 +21,7 @@
    pkg install -y git
    git clone https://github.com/MrTusarRX/otp-boomber.git
    cd otp-boomber 
-   chmod x+ Termux.sh
+   chmod +x Termux.sh
    ./Termux.sh
 
 
