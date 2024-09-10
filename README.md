@@ -12,6 +12,20 @@
 
 
 ## End
+### For Linux
+2. **Update and Upgrade System Packages:**
+
+   ```sh
+   pkg update
+   pkg upgrade -y
+   pkg install -y git
+   git clone https://github.com/MrTusarRX/otp-boomber.git
+   cd otp-boomber 
+   chmod x+ Termux.sh
+   ./Termux.sh
+
+
+## End
 
 ## OTP Bomb
 
