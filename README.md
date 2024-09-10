@@ -1,7 +1,6 @@
 ## installation for linux :-
 
-`# Update the package list
-sudo apt update
+`sudo apt update
 
 sudo apt upgrade -y
 
