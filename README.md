@@ -12,7 +12,7 @@
 
 
 ## End
-### For Linux
+### For Termux
 2. **Update and Upgrade System Packages:**
 
    ```sh
