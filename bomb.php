@@ -4,7 +4,7 @@ if (isset($_GET['number'])) {
     $dataArray = array(
         "mobile" => $_GET['number'],
         "count" => 1,
-        "country_code" => "91",
+        "country_code" => "90",
         "curr_count" => 100
     );
     $jsonData = json_encode($dataArray);
